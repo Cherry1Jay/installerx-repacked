@@ -141,3 +141,24 @@ InstallerX-Revived 的全部功能（安装器 UI、Shizuku/Dhizuku 支持、安
 2. **风险自负**：替换系统安装器属于系统级改动，可能导致无法安装或卸载应用、安装器异常、无法开机、数据丢失，甚至需要线刷才能恢复。使用前请自行备份重要数据并确认设备具备救砖能力；因使用本产物造成的任何直接或间接损失，本仓库及维护者不承担责任。
 3. **商标与版权**：文中提及的 Xiaomi、HyperOS、MIUIPackageInstaller、InstallerX、Shizuku、Dhizuku 等商标及产品名称，其商标权与著作权均归其合法所有者所有。上游代码、界面与资源的版权归 [wxxsfxyzm](https://github.com/wxxsfxyzm) 所有，本仓库仅提供包名替换与重签名这一层改动。
 4. **授权范围**：上游以 GPL-3.0 授权，本仓库产物作为派生作品同样以 GPL-3.0 分发；分发时须保留原作者的版权与许可声明，并提供对应源码（上游 tag + `scripts/repack.py`）。若你认为本仓库的存在侵犯了你的权益，请提交 issue，维护者会及时处理（含删除仓库与相关 Release）。
+
+<!-- donate:start -->
+---
+
+## 支持作者 / Support the author
+
+本项目**完全免费**，不设付费版、不做功能阉割，也没有任何强制署名或引流要求。你可以在遵守许可证的前提下自由使用、修改和分发。
+
+如果它确实帮到了你，欢迎**自愿打赏**，金额随意；不打赏完全不影响使用，也不影响后续更新。
+
+<table>
+  <tr>
+    <td align="center"><b>支付宝（推荐）</b><br>
+      <img src="assets/donate/alipay.jpg" width="240" alt="支付宝收款码"></td>
+    <td align="center"><b>微信支付</b><br>
+      <img src="assets/donate/wechat.jpg" width="240" alt="微信收款码"></td>
+  </tr>
+</table>
+
+<sub>Free to use — this project is and stays free. A voluntary tip is appreciated, never required.</sub>
+<!-- donate:end -->
